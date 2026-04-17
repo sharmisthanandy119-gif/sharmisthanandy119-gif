@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300)
+
 
 # 👋 Hi, I'm Sharmistha Nandy
 
