@@ -36,7 +36,7 @@ I build dashboards, analyze data, and generate insights that help businesses mak
 
 ## 📫 Connect With Me
 - LinkedIn (add your link)
-- Email (optional)
+- sharmisthanandy119@gmail.com
 
 
 
