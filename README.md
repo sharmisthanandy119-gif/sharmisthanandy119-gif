@@ -5,10 +5,6 @@
 
 ![Banner](banner.png)
 
-# 👋 Hi, I'm Sharmistha Nandy
-
-💼 Data Analyst | SQL • Python • Power BI  
-
 ---
 
 ## 🚀 About Me
