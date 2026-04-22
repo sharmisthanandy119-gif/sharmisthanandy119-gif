@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sharmistha+Nandy;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Business+Insights;5%2B+Years+Experience+in+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sharmistha+Nandy;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Business+Insights;5%2B+Years+Experience+in+Analytics" />
 </p>
 
 
